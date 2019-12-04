@@ -47,7 +47,7 @@ def naming_system
   :label=> "Kingdom",
     :sub_category=> {
     :label=> "Phylum",
-      :sub_categor=> {
+      :sub_category=> {
       :label=> "Class"
       }
       }
