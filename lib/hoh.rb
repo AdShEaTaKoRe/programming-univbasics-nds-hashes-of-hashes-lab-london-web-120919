@@ -53,7 +53,7 @@ def naming_system
       :label => "Order",
       :sub_category => {
       :label => "Family",
-      :sub_categor y=>
+      :sub_categor => {
       :label => "Genus"
       }
       }
