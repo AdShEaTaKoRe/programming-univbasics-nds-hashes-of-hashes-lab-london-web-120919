@@ -43,7 +43,15 @@ def naming_system
   # HoH all the way to Species!
   
   existence = {
-    {:
+    {
+  :label=> "Kingdom",
+    :sub_category=> {
+    :label=> "Phylum",
+      :sub_categor=> {
+      :label=> "Class"
+      }
+      }
+    }
   }
 
 end
