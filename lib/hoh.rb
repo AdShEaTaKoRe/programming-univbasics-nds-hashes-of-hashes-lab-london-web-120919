@@ -45,10 +45,11 @@ def naming_system
   existence = {
     
   :label => "Kingdom",
-    :sub_category => {
+  :sub_category => {
     :label => "Phylum",
-      :sub_category => {
-      :label => "Class"
+    :sub_category => {
+      :label => "Class",
+      :label => "Order"
       }
       }
     }
